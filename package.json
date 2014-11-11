@@ -1,0 +1,9 @@
+{
+  "name": "ATS-Websocket",
+  "version": "1.0.0",
+  "description": "ATS-Websocket",
+  "author": "Johannes Rudolph",
+  "dependencies": {
+    "websocket": "^1.0.10"
+  }
+}
